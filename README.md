@@ -77,14 +77,14 @@ In the activity that wants to instantiate the banner
             "Aplicativos"
         )
         val arrayImage = arrayOf(
-            "https://my-image1",
-            "https://my-image2",
-            "https://my-image3"
+           "https://lh3.googleusercontent.com/-_TKbBI6iEY8/YDq64Q9W7GI/AAAAAAAAOeY/et5APD51DSklthaMgCg-vsKQzZovMBXhgCLcBGAsYHQ/banner-example.gif",
+           "https://3.bp.blogspot.com/-OQShg7PH5_Y/X1iBgGDraUI/AAAAAAAAOOY/jHNOeyj76rI7NioURODkjbzdpjQBRQpzwCPcBGAsYHg/loading.gif",
+           "https://1.bp.blogspot.com/-I3eUPA3P3lo/YChnklvEyrI/AAAAAAAAOc0/j5CogsMxZ_ENlg5hdbPhk6a-c6O9SXiAgCLcBGAsYHQ/player.png"
         )
         val arrayImageDrawable = arrayOf(
-             R.drawable.image1,
-             R.drawable.image1,
-             R.drawable.image1
+             R.drawable.border_controller,
+             R.drawable.border_controller_pressed,
+             R.drawable.border_controller_selected
         )
         val arrayUrl = arrayOf(
             "https://github.com/Allanksr",
