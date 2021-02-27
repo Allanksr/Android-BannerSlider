@@ -103,4 +103,4 @@ In the activity that wants to instantiate the banner
 ```
 
 
-<img src="https://raw.githubusercontent.com/Allanksr/zelloconsumer/gh-pages/test/token.PNG">
+<img src="https://lh3.googleusercontent.com/-_TKbBI6iEY8/YDq64Q9W7GI/AAAAAAAAOeY/et5APD51DSklthaMgCg-vsKQzZovMBXhgCLcBGAsYHQ/banner-example.gif">
