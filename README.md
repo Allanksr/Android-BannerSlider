@@ -1,6 +1,8 @@
 # What is this?
 Implementation of banner with texts, images and links 
 
+Video example -> [Youtube](https://www.youtube.com/watch?v=oK1GPeXd9XU)
+
 This implementation is based on `Theme.AppCompat` then the application must implement it
 
 Example 
@@ -102,5 +104,5 @@ In the activity that wants to instantiate the banner
         bannerLL.addView(layoutView)
 ```
 
-
+Video example -> [Youtube](https://www.youtube.com/watch?v=oK1GPeXd9XU)
 <img src="https://lh3.googleusercontent.com/-_TKbBI6iEY8/YDq64Q9W7GI/AAAAAAAAOeY/et5APD51DSklthaMgCg-vsKQzZovMBXhgCLcBGAsYHQ/banner-example.gif">
